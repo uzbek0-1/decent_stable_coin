@@ -72,7 +72,7 @@ for WETH/WBTC, so you don't need real testnet assets to try it out.
    This uses real Chainlink ETH/USD and BTC/USD feeds on Sepolia (addresses in
    `helper-hardhat-config.js`).
 
-⚠️ **Never commit `.env` or put a real private key in it if that key holds
+**Never commit `.env` or put a real private key in it if that key holds
 mainnet funds.** Use a burner wallet for testnets.
 
 ## Tests
